@@ -15,6 +15,7 @@ string color = Console.ReadLine();
 Console.WriteLine("Enter your favorite food:");
 string food = Console.ReadLine();
 Console.WriteLine("Enter your favorite hobby:");
+string hobby = Console.ReadLine();
 Console.WriteLine("================================");
 
 /*No. 2 Three-Numbwer Mathematical Challenege, I got number 5 (the paper).
